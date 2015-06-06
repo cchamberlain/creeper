@@ -1,0 +1,22 @@
+{
+  "name": "creeper",
+  "version": "0.1.0",
+  "description": "Node scraping tool (WIP)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchamberlain/creeper.git"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "node",
+    "scraping",
+    "http"
+  ],
+  "author": "Cole Chamberlain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchamberlain/creeper/issues"
+  },
+  "homepage": "https://github.com/cchamberlain/creeper#readme"
+}
